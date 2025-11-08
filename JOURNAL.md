@@ -21,3 +21,16 @@ https://tec.gov.in/pdf/Studypaper/lifi%20study%20paper%20-%20approved.pdf
 ![Screenshot 2025-11-07 at 9.43.39 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5d2bfce10597ab78cfadbb30b5aef6ea49d5982d/Screenshot%202025-11-07%20at%209.43.39%20PM.png)
   
 
+## 11/8/2025 - Circuit Diagram  
+
+I am using cirkit designer for making this diagram as it is very much beginner friendly and easy to understand. It also has a large library of components and you can also create custom parts if you want...
+here is the link to my circuit diagram. I've attached the image too both here and in my repo...
+Parts:
+I want a heatshrink tubes, 100ohm resistor, led light, solar panel, 3.5mm audio jack and wires...
+
+
+![Screenshot 2025-11-08 at 6.19.24 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--220f95343724b20a9da66fa47a46927eff435977/Screenshot%202025-11-08%20at%206.19.24%20PM.png)
+
+![CD](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb75c90eac6d07b657a188a242b2e1bf903034cd/CD.png)
+  
+
