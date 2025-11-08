@@ -21,7 +21,7 @@ https://tec.gov.in/pdf/Studypaper/lifi%20study%20paper%20-%20approved.pdf
 ![Screenshot 2025-11-07 at 9.43.39 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5d2bfce10597ab78cfadbb30b5aef6ea49d5982d/Screenshot%202025-11-07%20at%209.43.39%20PM.png)
   
 
-## 11/8/2025 - Circuit Diagram  
+## 11/8/2025 6:34 PM - Circuit Diagram  
 
 I am using cirkit designer for making this diagram as it is very much beginner friendly and easy to understand. It also has a large library of components and you can also create custom parts if you want...
 here is the link to my circuit diagram. I've attached the image too both here and in my repo...
@@ -32,5 +32,16 @@ I want a heatshrink tubes, 100ohm resistor, led light, solar panel, 3.5mm audio 
 ![Screenshot 2025-11-08 at 6.19.24 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--220f95343724b20a9da66fa47a46927eff435977/Screenshot%202025-11-08%20at%206.19.24%20PM.png)
 
 ![CD](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb75c90eac6d07b657a188a242b2e1bf903034cd/CD.png)
+  
+
+## 11/8/2025 6:36 PM - Bill Of Materials(BOM)  
+
+Okay so the last part is BOM. I searched it up on amazon, flipkart, calculated delivery costs etc and sticked to amazon as there is no delivery charge and overall it is cheaper than flipkart etc...
+
+I added a 22 guage wire, solar panel, led, 3.5mm jack(2 in 1 pack), 100 ohm resistor and heatshrink tubing to protect the solered parts from causing short circuit...
+
+![3](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--be57578b4a93f65a0b8bf1d25c23dd91d48d9d65/3.png)
+![4](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--bf603d5ad6b2511ae19799bb170b0a15cc391ca6/4.png)
+![6](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--14e50d3c553cffdbf91b5d23ad21821c44be65e7/6.png)![5](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--320f96e9cafe32400a3c4d8cedbff09d739e04c4/5.png)![2](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4NywicHVyIjoiYmxvYl9pZCJ9fQ==--4fbb5a2d59c3514d5ebcac347da30ccc6f939347/2.png)![1](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f9a09b5f3a8eab7f0575cb4d61998d2bb3d4f908/1.png)
   
 
