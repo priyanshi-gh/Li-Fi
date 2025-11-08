@@ -40,6 +40,8 @@ Okay so the last part is BOM. I searched it up on amazon, flipkart, calculated d
 
 I added a 22 guage wire, solar panel, led, 3.5mm jack(2 in 1 pack), 100 ohm resistor and heatshrink tubing to protect the solered parts from causing short circuit...
 
+**The price is $14.89. I would like to request $1 extra for Miscellaneous charges, if any money get's leftover I would be happy to return it :))**
+
 ![3](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--be57578b4a93f65a0b8bf1d25c23dd91d48d9d65/3.png)
 ![4](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--bf603d5ad6b2511ae19799bb170b0a15cc391ca6/4.png)
 ![6](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--14e50d3c553cffdbf91b5d23ad21821c44be65e7/6.png)![5](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--320f96e9cafe32400a3c4d8cedbff09d739e04c4/5.png)![2](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM4NywicHVyIjoiYmxvYl9pZCJ9fQ==--4fbb5a2d59c3514d5ebcac347da30ccc6f939347/2.png)![1](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f9a09b5f3a8eab7f0575cb4d61998d2bb3d4f908/1.png)
