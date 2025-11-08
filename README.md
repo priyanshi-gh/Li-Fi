@@ -1,0 +1,3 @@
+This is a low cost project which explains how LiFi works. This contains an LED bulb sending light onto a solar panel and then the solar panel plays music on the speaker.
+Basically data in the form of sound is transmitted through light...
+
