@@ -8,6 +8,10 @@ However, there is a slight difference in these LiFi LED Light Bulbs and Normal L
 These LiFi LED Light Bulbs transmit Data through the Light given off by them and these Light Signals are received by Photoreceptors.
 A Photoreceptor is a Sensor that detects Light by capturing Photons, like a solar panel...
 
+<img width="1248" height="567" alt="Screenshot 2025-11-11 at 9 36 00 PM" src="https://github.com/user-attachments/assets/b4be73d3-e061-45fb-9767-724a1c755171" />
+
+
+
 <img width="639" height="591" alt="Screenshot 2025-11-11 at 9 33 24 PM" src="https://github.com/user-attachments/assets/165f997d-942d-486f-b42d-2f8f79eb8f95" />
 
 
